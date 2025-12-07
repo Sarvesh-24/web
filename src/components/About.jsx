@@ -16,7 +16,7 @@ function About() {
     <div
         className="
             relative
-            -mt-20        /* mobile */
+            -mt-12        /* mobile */
             md:-mt-24     /* tablet */
             lg:-mt-28     /* desktop/laptop */
             z-20
